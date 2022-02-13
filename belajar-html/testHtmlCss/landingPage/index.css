@@ -1,0 +1,25 @@
+nav {
+    background-color: red;
+}
+
+.nav {
+    background-color: aqua;
+    margin: 3% 3% 0 3%;
+    display: flex;
+}
+
+.nav-hero {
+    background-color: salmon;
+    width: 180px;
+    text-align: center;
+}
+
+.nav-menu {
+    float: right;
+    width: 200px;
+    background-color: salmon;
+}
+
+.nav-menu a {
+    margin: 15% 0 15% 0;
+}
