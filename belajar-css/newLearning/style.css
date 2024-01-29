@@ -1,0 +1,28 @@
+.cv {
+    background-color: white;
+    border-style: solid;
+    border-color: rgb(46, 43, 53);
+    border-width: 8px;
+    height: 600px;
+    width: 70%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+#education-portofolio {
+    background-color: rgba(226,226,224,255);
+    width: 65%;
+}
+
+body {
+    background-color: black;
+}
+
+h1 {
+    margin: 0;
+}
+
+p {
+    margin: 0;
+}

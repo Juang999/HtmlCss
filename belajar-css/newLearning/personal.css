@@ -1,0 +1,48 @@
+
+#personal {
+    background-color: rgba(2,5,48,255);
+    width: 45%;
+}
+
+#image {
+    height: 350px;
+    display: flex;
+    justify-content: center;
+}
+
+#personal-image {
+    margin-top: 10%;
+    border-radius: 50%;
+    border-style: solid;
+    outline-style: solid;
+    outline-color: rgba(226,226,224,255);
+}
+
+#aboutme {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 250px;
+    color: rgba(226,226,224,255);
+}
+
+#header {
+    width: 75%;
+    margin-left: auto;
+    border-style: solid;
+    border-top: 5px;
+    border-left: 5px;
+    border-right: 5px;
+}
+
+#box-name {
+    background-color: yellow;
+    padding: 2%;
+}
+
+#icon-name {
+    fill: rgba(226,226,224,255);
+}
+
+#label {
+    margin: 0;
+    color: rgba(226,226,224,255);
+}
